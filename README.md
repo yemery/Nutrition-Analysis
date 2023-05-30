@@ -1,5 +1,3 @@
-# Untitled
-
 # Nutrition Calculation API
 
 This is a simple Express.js server that provides an API endpoint for calculating nutrition details based on the provided ingredients. It uses the Edamam API to fetch the nutrition data.

@@ -2,6 +2,12 @@
 
 This is a simple Express.js server that provides an API endpoint for calculating nutrition details based on the provided ingredients. It uses the Edamam API to fetch the nutrition data.
 
+## Prerequisites
+
+Before running this application, make sure you have the following prerequisites:
+    -Node.js installed on your machine
+    -Edamam API credentials (APP_ID and APP_KEY)
+
 ## Installation
 
 1. Clone the repository:

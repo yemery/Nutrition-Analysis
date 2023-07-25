@@ -59,8 +59,4 @@ Before running this application, make sure you have the following prerequisites:
     
 3. The server will fetch the nutrition details from the Edamam API and return the total nutrients in the response.
 
-```markdown
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-```
